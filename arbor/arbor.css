@@ -1,0 +1,38 @@
+body {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: medium;
+     color: black;
+     margin: auto;
+     width:760px;
+     max-width: 760;
+}
+
+a:link {
+      color: Blue;
+      text-decoration: underline;
+}
+
+a:visited {
+      color: #990000;
+      text-decoration: underline;
+}
+
+a:hover {
+      color: #006633;
+      text-decoration: none;
+}
+
+footer {
+      font-size: small;
+      text-align: center;
+      clear: both;
+}
+
+ .left {
+     float: left;
+     width: 70%;
+}
+
+.right {
+     margin-left: 70%;
+}
